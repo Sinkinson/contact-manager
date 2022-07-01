@@ -13,7 +13,7 @@ Contacts can then be filtered by tag or equally searched for via the search bar.
 2. `cd` into the directory
 3. Run `npm install` to install dependencies
 4. Run `npm start` to start application
-5. Navigate to the application via `http://localhost:3000`
+5. Type `http://localhost:3000` into your browser
 
 ## All contacts
 
