@@ -1,6 +1,6 @@
 # Contact Manager
 
-A contact management application built using `node`, `JavaScript` and `Handlebars`.
+A contact management application built using `Node`, `JavaScript` and `Handlebars`.
 
 ## About
 
