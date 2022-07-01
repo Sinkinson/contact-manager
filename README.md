@@ -11,8 +11,8 @@ Contacts can then be filtered by tag or equally searched for via the search bar.
 
 1. Clone the repo: `git clone https://github.com/Sinkinson/contact-manager.git`
 2. `cd` into the directory
-3. run `npm install` to install dependencies
-4. run `npm start` to start application
+3. Run `npm install` to install dependencies
+4. Run `npm start` to start application
 5. Navigate to application via `http://localhost:3000`
 
 
